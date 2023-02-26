@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RathnaSriBalina</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F59734313%2F157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fmrunali8975&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwiWnrHmvLP9AhXS1HMBHU0fArkQMygTegUIARCqAg..i&docid=PAdsz44JIIX_RM&w=640&h=640&q=animated%20coding%20girl%20gif&ved=2ahUKEwiWnrHmvLP9AhXS1HMBHU0fArkQMygTegUIARCqAg.gif"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sribalina&label=Profile%20views&color=0e75b6&style=flat" alt="sribalina" /> </p>
 
